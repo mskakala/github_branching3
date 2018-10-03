@@ -13,6 +13,7 @@
   </head>
   <h1>This is the Headline</h1>
   <body>
+  <h1>This is Headline</h1>
     <!--[if lt IE 7]>
       <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="#">upgrade your browser</a> to improve your experience.</p>
     <![endif]-->
